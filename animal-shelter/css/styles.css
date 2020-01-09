@@ -1,0 +1,18 @@
+.listing h2 {
+   height: 300px;
+   float: left;
+   padding: 40px;
+  
+}
+.listing img {
+  width: 300px;
+  float: left;
+  padding: 40px;
+}
+}
+.fright p {
+  width: 600px;
+  float: right;
+  padding: 40px;
+
+}
